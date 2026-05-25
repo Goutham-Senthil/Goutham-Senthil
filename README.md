@@ -17,4 +17,8 @@ Feel free to check out the other projects 🛠️🚀 I’ve worked on!
 
 Have a great day! 😊🌟
 
+and just like every other social I have.
+
+My very own GitHub profile.
+
 
