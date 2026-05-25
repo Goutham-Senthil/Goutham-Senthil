@@ -19,6 +19,6 @@ Have a great day! 😊🌟
 
 and just like every other social I have.
 
-My very own GitHub profile.
+My very own GitHub Profile.
 
 
