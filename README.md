@@ -6,6 +6,8 @@ I hold a Master's Degree 🎓 in Data Science from the University of Glasgow �
 
 I am probably building some new project right now! ⚙️💡🚀
 
+Currently working on a project "CSM".You can navigate to my repositories if you want to see it.
+
 My latest project was "Hyperlocal".A little about it down below.
 
 One of my best friends and I recently just created an app "Hyperlocal" to help people find hidden gems in their cities. 
