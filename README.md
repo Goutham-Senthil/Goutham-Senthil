@@ -8,7 +8,8 @@ I am probably building some new project right now! ⚙️💡🚀
 
 Currently working on a project "CSM".You can navigate to my repositories if you want to see it.
 
-My latest project was "Hyperlocal".A little about it down below.
+My latest project was "Hyperlocal". A little about it down below.
+Hyperlocal is closed source.
 
 One of my best friends and I recently just created an app "Hyperlocal" to help people find hidden gems in their cities. 
 We only have 9 cities as of yet and are working on adding more.
